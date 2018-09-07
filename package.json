@@ -1,7 +1,7 @@
 {
   "name": "refactoring-2nd-pulls",
   "version": "1.0.0",
-  "description": "Examples",
+  "description": "Check the change of code in the second edition of refactoring with PR",
   "main": "index.js",
   "repository": "https://github.com/stunstunstun/refactoring-2nd-pulls",
   "author": "stunstunstun",
