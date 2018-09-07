@@ -1,0 +1,10 @@
+{
+  "name": "refactoring-2nd-pulls",
+  "version": "1.0.0",
+  "description": "Examples",
+  "main": "index.js",
+  "repository": "https://github.com/stunstunstun/refactoring-2nd-pulls",
+  "author": "stunstunstun",
+  "license": "MIT",
+  "private": false
+}
